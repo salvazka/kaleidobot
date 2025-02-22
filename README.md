@@ -30,6 +30,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/salvazka/kaleidobot.git
+   cd kaleidobot
    ```
 2. Install dependencies:
    ```bash
